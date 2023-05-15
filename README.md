@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackgik
 - 👀 I’m interested in aws, blockchain, servers, cloud computing, System Designs and Graphics
 - 🌱 I’m currently learning AWS Sysops
-- 💞️ I’m looking to collaborate on Opne source softwares
+- 💞️ I’m looking to collaborate on Open source softwares
 - 📫 How to reach me linkedIN ( Echendu Chinedum )
 
 <!---
